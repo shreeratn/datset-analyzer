@@ -76,18 +76,11 @@ pip install tabulate --user
 ```
 
 <!-- USAGE EXAMPLES -->
-<br />
-
-**[![warning-icon](https://img.shields.io/badge/WARNING-red?style=for-the-badge&color=ea004c)]()**
-
-**You cannot change window while the simulator is running, If you do so the upcoming keys combination from your clipboard might be lethal and crash your system in worst case scenario. STOP THE SIMUATION OR LET IT BE COMPLETED**
-
-<br />
 
 ## Usage
 
-1. Run the main.py in terminal
-2. Estimate time you need before the simulator starts typing which should include:
+1. Run the analyzer.py in terminal
+2. Keep the files to be specified in same folder or specify full path to file
    * Time required changing the window to the editor you want to use
    *   Placing the cursor at starting position where you want to start the simulator to type in 
 
