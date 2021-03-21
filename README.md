@@ -50,9 +50,6 @@ Here's detail which are shown as column-wise:
 * Determine that given column might be ignored
 
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-
 ## [![forthebadgepython](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
