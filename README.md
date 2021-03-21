@@ -81,8 +81,12 @@ pip install tabulate --user
 
 1. Run the analyzer.py in terminal
 2. Keep the files to be specified in same folder or specify full path to file
-   * Time required changing the window to the editor you want to use
-   *   Placing the cursor at starting position where you want to start the simulator to type in 
+3. First Argument[optional]- determination:
+    * nll - is used to view only the columns which have null values >=1 
+    * cat - is used to view only the columns which might be changed to categorical or is categorical
+    * ign - is used to view only the columns which might be ignored, since they have high uniqueness
+4. Second Argument[optional]- threshold:
+    * In order to determine which columns can be possibly ignored depending upon the uniqueness percentage, this asks for the percentage of uniqueness
 
 <br />
 
