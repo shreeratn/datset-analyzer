@@ -63,10 +63,10 @@ To get a local copy up and running follow these simple example steps.
 List of things you need to use the software and how to install them:
 
 
-[![pyautogui-icon](https://img.shields.io/badge/Package%20needed-PyAutoGUI-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/PyAutoGUI/)
+[![pandas-icon](https://img.shields.io/badge/Package%20needed-pandas-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/pandas/)
 
 ```sh
-pip install pyautogui --user
+pip install pandas --user
 ```
 
 [![pyperclip-icon](https://img.shields.io/badge/Package%20needed-PyPerClip-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/pyperclip/)
