@@ -1,7 +1,5 @@
-# datset analyzer
+# Datset Analyzer
  
-# Human typing simulator
-
 <br />
 <!-- <p align="center">
   <p align="center">
