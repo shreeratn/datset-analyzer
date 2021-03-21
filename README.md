@@ -1,17 +1,17 @@
 # Datset Analyzer
  
 <br />
-<!-- <p align="center">
+<p align="center">
   <p align="center">
-    <img src="https://github.com/shreeratn//blob/main/Icon.svg" width = "300" height = "300">
+    <img src="https://github.com/shreeratn/datset-analyzer/blob/main/Icon.svg" width = "300" height = "300">
     </p>
   <h3 align="center">
-    Human typing simulator in python</h3>
+    Minimal dataset analyzer</h3>
   <p align="center">
-    Simulate human like typing of contents from clipboard
+    Minimal dataset analyzer
     <br />
   </p>
-</p> -->
+</p>
 
 
 ### [![version](https://img.shields.io/github/v/tag/shreeratn/human-typing-simulation?color=ef4041&label=Latest%20Version&logo=Latest%20release&style=for-the-badge)](https://github.com/shreeratn/human-typing-simulation/releases) **[![Roadmap](https://img.shields.io/badge/ROADMAP%20here-red?style=for-the-badge&color=5d9741)](https://github.com/users/shreeratn/projects/1)**
