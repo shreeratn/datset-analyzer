@@ -69,10 +69,10 @@ List of things you need to use the software and how to install them:
 pip install pandas --user
 ```
 
-[![pyperclip-icon](https://img.shields.io/badge/Package%20needed-PyPerClip-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/pyperclip/)
+[![tabulate-icon](https://img.shields.io/badge/Package%20needed-tabulate-blue?style=for-the-badge&labelColor=00c7ff&color=009fef)](https://pypi.org/project/tabulate/)
 
 ```sh
-pip install pyperclip --user
+pip install tabulate --user
 ```
 
 <!-- USAGE EXAMPLES -->
