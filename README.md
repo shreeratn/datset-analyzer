@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <p align="center">
-    <img src="https://github.com/shreeratn/datset-analyzer/blob/main/Icon.svg" width = "300" height = "300">
+    <img src="https://github.com/shreeratn/datset-analyzer/blob/main/icon.svg" width = "300" height = "300">
     </p>
   <h3 align="center">
     Minimal dataset analyzer</h3>
