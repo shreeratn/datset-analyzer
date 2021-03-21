@@ -7,8 +7,6 @@
     </p>
   <h3 align="center">
     Minimal dataset analyzer</h3>
-  <p align="center">
-    Minimal dataset analyzer
     <br />
   </p>
 </p>
